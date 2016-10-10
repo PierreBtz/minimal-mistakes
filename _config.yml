@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "fr-FR"
+title                    : "Project W"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Pierre Beitz"
+description              : "Project W"
+url                      : "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "PierreBtz/project-w"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pierre et Anne"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Project W"
   location         : "Somewhere"
-  email            :
+  email            : "TODO: add email when done"
   uri              :
   bitbucket        :
   codepen          :
